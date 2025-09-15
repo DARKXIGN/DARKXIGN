@@ -1,4 +1,8 @@
 ## Hi there 👋
+![DARKXIGN's github stats](https://github-readme-stats.vercel.app/api?username=DARKXIGN&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DARKXIGN&layout=compact&theme=dark)
+---
+![LeetCode Stats](https://leetcard.jacoblin.cool/DARKXIGN?theme=dark&font=Chivo&ext=activity)
 
 <!--
 **DARKXIGN/DARKXIGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
